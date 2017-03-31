@@ -7,8 +7,18 @@ kirby-stats is a minimalistic visitor statistics tool: It logs either *each hit*
 ![Screenshot](http://i.imgur.com/CT2PhWe.jpg)
 
 ## Installation
+
+### Kirby CLI
+Installing via Kirby's [command line interface](https://github.com/getkirby/cli):
+
+    $ kirby plugin:install maxxst/kirby-stats
+
+To update Stats, run:
+
+    $ kirby plugin:update maxxst/kirby-stats
+    
 ### Download
-[Download the files](https://github.com/FabianSperrle/kirby-stats/archive/master.zip) and put them in the respective subfolders of `site` and `assets`. If any of the folders don't exist, create them.
+[Download the files](https://github.com/maxxst/kirby-stats/archive/master.zip) and put them in the respective subfolders of `site` and `assets`. If any of the folders don't exist, create them.
 
 ## Usage
 

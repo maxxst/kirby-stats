@@ -1,0 +1,12 @@
+{
+  "name": "stats",
+  "description": "Kirby Stats",
+  "author": "Fabian Sperrle, andi242 ,Sam Nabi",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxxst/kirby-stats"
+  },
+  "type": "kirby-plugin"
+}
